@@ -1,8 +1,4 @@
-<h1 align="center">Hey, I'm Muhammad Talha Arif</h1>
-
-<p align="center">
-  <b>Software Developer • Builder • Problem Solver</b>
-</p>
+<h1 align="center">Hey, I'm Talha Arif</h1>
 
 <p align="center">
   I like building useful software, web apps, automation tools, and technical projects that solve real problems.
