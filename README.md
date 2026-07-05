@@ -21,24 +21,6 @@
 </p>
 
 ---
-
-## About Me
-
-I'm a Software Development student at SAIT based in Calgary, Alberta.
-
-I enjoy working on practical projects that combine software, data, automation, cloud, and real-world problem solving. I’m especially interested in building tools that make complicated workflows easier for people to use.
-
-Right now, I’m focused on improving my skills in:
-
-- Full-stack web development
-- Cloud hosting and deployment
-- Python automation
-- Data-driven applications
-- GIS and digital twin-style systems
-- AI-assisted developer workflows
-
----
-
 ## What I'm Working On
 
 ### Got Lost  
@@ -72,12 +54,3 @@ Deploying applications with AWS, Docker, Supabase, PostgreSQL, S3, and Linux ser
 </p>
 
 ---
-
-## Featured Project Areas
-
-```txt
-Web Apps        → React, Node.js, APIs, UI/UX
-Automation      → Python scripts, scraping, workflow tools
-Cloud           → AWS, Docker, Linux, PostgreSQL
-Data/GIS        → DEM, DSM, LiDAR, QGIS, terrain modelling
-AI Tools        → AI-assisted development and productivity workflows
