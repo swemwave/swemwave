@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/talha-arif-71b0b2184">
     <img src="https://img.shields.io/badge/LinkedIn-Talha%20Arif-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/swemwave">
-    <img src="https://img.shields.io/badge/GitHub-swemwave-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
