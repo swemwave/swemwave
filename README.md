@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Talha Arif</h1>
 
 <p align="center">
-  I like building useful software, web apps, automation tools, and technical projects that solve real problems.
+  I like making solutions to software related problems.
 </p>
 
 <p align="center">
