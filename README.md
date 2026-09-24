@@ -13,23 +13,6 @@
   </a>
 </p>
 
----
-## What I'm Working On
-
-### Got Lost  
-An indoor navigation and virtual tour platform designed to help people find their way through complex buildings like campuses, malls, hospitals, and venues.
-
-### CIRUS Avalanche Digital Twin  
-A project focused on using DEM, DSM, LiDAR, RGB, thermal, and multispectral data to build terrain models and support avalanche risk analysis.
-
-### Real Estate / Broker Tools  
-Web app features for property management, document workflows, listings, clients, deposits, and broker-side operations.
-
-### Cloud & DevOps Practice  
-Deploying applications with AWS, Docker, Supabase, PostgreSQL, S3, and Linux servers.
-
----
-
 ## Tech Stack
 
 <p>
